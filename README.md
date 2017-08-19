@@ -1,2 +1,2 @@
 # hello-world
-This is simple program to understand the flow of github
+This is hello world program to understand the flow of github
